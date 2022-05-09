@@ -2,4 +2,4 @@
 
 
 
-This is the website that was created for final project in hight school. It works on localhost. You will need to download XAMPP and upload there .sql file.
+This is the website that was created for final project in high school. It works on localhost. You will need to download XAMPP and upload there .sql file.
